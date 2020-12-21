@@ -1,0 +1,94 @@
+ <style>
+        #centerlook{
+            margin-left: 300px;
+        }
+        
+        #margininsides{
+            margin-left: -300px;
+        }
+        #decorate{
+            background-color: darkcyan;
+        }
+        #decoratebelowdecorate{
+            background-color: darkgrey;
+        }
+        #abouttheauthors{
+            font-family: 'Turret Road', cursive;
+            background-color: darkcyan;
+        }
+	    #statss{
+	   	 font-family: 'Syne Tactile', cursive;
+		 background-color: darkgrey;
+		 
+	   }
+       #signuporlogin{
+            background-color: darkgrey;
+            
+        }
+        #stylethisbutton{
+            border: none;
+            background-color: greenyellow;
+            box-sizing: 85px;
+            width: 180px;
+            height: 50px;
+            margin-left: 25%;
+        }
+        #features{
+            background-color: darkcyan;
+            font-family: 'Inter', sans-serif;
+        }
+        #freevids{
+            background-color: crimson;
+            width: 175px;
+            margin-left: 15%;
+        }
+        #onlinerecitations{
+            /* online recitations */
+            background-color: darkmagenta;
+            margin-top: -130px;
+            width: 175px;
+            margin-left: 30%;
+        }
+        #liveclasses{
+            background-color: darkviolet;
+            margin-top: -175px;
+            width: 180px;
+            margin-left: 45%;
+        }
+        #howdowework{
+            background-color: darkgrey;
+            font-family: 'Raleway', sans-serif;
+        }
+        #first:hover{
+            color: dodgerblue;
+        }
+        .alert {
+  padding: 20px;
+  background-color: #4CAF50;
+  color: white;
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
+        #languages{
+            background-color: whitesmoke;
+            color: burlywood;
+        }
+        .tabmenu {
+            position: absolute;
+            display: inline-block;
+            top: 35px;
+            left: 350px;
+        }
